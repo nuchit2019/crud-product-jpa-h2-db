@@ -4,10 +4,6 @@ CRUD Product API using...
 2. H2 Database,
 3. JPA,
 4. Lombok,
-5. Layered:
-	5.1 ProductController,
-	5.2 ProductService,
-	5.3 ProductServiceImpl,
-6. ProductDTO,
-7. ModelMapper,
+5. ProductDTO,
+6. ModelMapper
 
