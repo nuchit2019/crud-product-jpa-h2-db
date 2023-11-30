@@ -35,6 +35,6 @@ Develop the ProductController class to handle requests and invoke the ProductSer
 
 7. Add ModelMapper dependency 
 Add the ModelMapper dependency in the pom.xml to use it for data conversion between Entity and DTO.
-8. Article: <a href=https://medium.com/@jnuchit/crud-api-product-data-using-springboot-jpa-h2-databases-e83afb7f9c31>CRUD API product data using SpringBoot, JPA, H2 databases, Lombok </a> 
+8. Article: <a href=https://medium.com/@jnuchit/crud-api-product-data-using-springboot-jpa-h2-databases-e83afb7f9c31>API CRUD Product data using SpringBoot, JPA, H2 databases and Lombok</a> 
 9. The end.
 
