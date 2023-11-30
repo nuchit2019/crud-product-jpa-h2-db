@@ -24,9 +24,9 @@ Build the ProductDTO class to serve as the model for receiving and sending data 
 Generate the ProductRepository interface, which extends JpaRepository to manage the data of the Product entity.
 
 5. Create the Service Layer
-5.1 ProductService Interface
+- 5.1 ProductService Interface
 Establish the ProductService interface to define various operations for the Product.
-5.2 ProductServiceImpl
+- 5.2 ProductServiceImpl
 Implement the ProductServiceImpl class, which implements the ProductService interface to execute the methods defined in the ProductService.
 
 6. Create the Controller Layer
